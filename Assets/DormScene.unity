@@ -3755,7 +3755,7 @@ MonoBehaviour:
   ticksPerBobPosition: 2
   dialogueManager: {fileID: 227465083}
   wakeUpMonologue: {fileID: 642520277}
-  wakeUpSubtitleText: I can't do this today... I just want to go back to sleep.
+  wakeUpSubtitleText: I can't do this day... I just want to go back to sleep.
 --- !u!54 &310694028
 Rigidbody:
   m_ObjectHideFlags: 0
